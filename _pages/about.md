@@ -23,6 +23,7 @@ I'm Jingyan Shen. I earned my dual master degree from Tsinghua University and Co
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
 
 # 📝 Publications 
@@ -31,7 +32,7 @@ I'm Jingyan Shen. I earned my dual master degree from Tsinghua University and Co
 - **TimeInf: Time Series Data Contribution via Influence Functions**
 
   Yizi Zhang<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon  
-  Preprint (In Submission)  
+  <span style="color:blue;">ICLR</span> 2025  
   \[[Paper](https://arxiv.org/pdf/2407.15247)\] \[[Code](https://github.com/yzhang511/TimeInf)\] 
 
 
